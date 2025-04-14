@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|English      |C     |C++   ||French     |
-|:------------|:---- |:-----||:----------|
-|A1 (Beginner)|junior|junior|A1(Débutant)|
+| English | French  | 
+| ------- | ------- |
+| A1 (Beginner) | A1(Débutant) |
+
