@@ -1,9 +1,6 @@
 ## == Hi i am Legat Lanius ==👋
 ---
 I am the messenger of the will of Caesar, who conquered 86 tribes under his flag. I took part in the battle for Hoover Dam. I am learning C and C++ and English, French.
-|English      |C     |C++   ||French     |
-|:------------|:---- |:-----||:----------|
-|A1 (Beginner)|junior|junior|A1(Débutant)|
 <!--
 **etrangerpoli/etrangerpoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|English      |C     |C++   ||French     |
+|:------------|:---- |:-----||:----------|
+|A1 (Beginner)|junior|junior|A1(Débutant)|
